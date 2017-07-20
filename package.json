@@ -1,0 +1,14 @@
+{
+  "name": "redux-tlp-2017-server",
+  "version": "1.0.0",
+  "description": "A JSON Server for the redux-tlp-2017 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Ivan Bacallado Trujillo",
+  "license": "ISC"
+}
