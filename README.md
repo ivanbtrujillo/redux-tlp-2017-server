@@ -1,3 +1,5 @@
+![Redux - Header](img/repo-header.png)
+
 ## JSON Server para Redux-TLP-2017
 
 Este repositorio contiene un JSON-Server basico el cual es utilizado en la rama redux-api-request del repositorio redux-tlp-2017.
