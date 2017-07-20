@@ -24,12 +24,8 @@ git clone https://github.com/ivanbtrujillo/redux-tlp-2017-server.git
 
 ```
 
-**2. Instalar dependencias:**
+**2. Ejecutar el servidor en el puerto 4000 (no hay dependencias)
 ```
-cd redux-tlp-2017-server && npm install 
-```
-
-**3. Ejecutar el servidor en el puerto 4000 (en una ventana de consola diferente a la del front):**
-```
+cd redux-tlp-2017-server
 json server --watch db.json --port 4000
 ```
